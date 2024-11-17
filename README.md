@@ -1,6 +1,6 @@
 ---
 
-📘 ****Project Name: AI Bitcoin Price Prediction Bot****
+📘 ****AI Bitcoin Price Prediction Bot****
 
 🌟 **Welcome to Era of Bitcoin Price Prediction!** 🌟  
 This project is designed to provide insightful and accurate Bitcoin-related analytics. 🚀
