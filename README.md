@@ -1,6 +1,6 @@
 ---
 
-📘 ****AI Bitcoin Price Prediction Bot****
+## 📘 ****AI Bitcoin Price Prediction Bot****
 
 ---
 
